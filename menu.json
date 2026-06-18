@@ -1,7 +1,7 @@
 {
   "pizze_classiche": [
-    { "nome": "Marinara",              "desc": "Pomodoro, olio, aglio e origano",                                               "prezzo": "5,00" },
-    { "nome": "Margherita",            "desc": "Pomodoro, mozzarella e basilico",                                               "prezzo": "4,50" },
+    { "nome": "Marinara",              "desc": "Pomodoro, olio, aglio e origano",                                               "prezzo": "4,50" },
+    { "nome": "Margherita",            "desc": "Pomodoro, mozzarella e basilico",                                               "prezzo": "5,00" },
     { "nome": "Margherita fior di latte", "desc": "Pomodoro e fior di latte",                                                   "prezzo": "5,00" },
     { "nome": "Ortelana",              "desc": "Pomodoro, mozzarella, melanzane e zucchine fritte",                             "prezzo": "6,50" },
     { "nome": "Prosciutto",            "desc": "Pomodoro, mozzarella e prosciutto cotto",                                       "prezzo": "5,50" },
