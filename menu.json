@@ -1,0 +1,80 @@
+{
+  "pizze_classiche": [
+    { "nome": "Marinara",              "desc": "Pomodoro, olio, aglio e origano",                                               "prezzo": "4,00" },
+    { "nome": "Margherita",            "desc": "Pomodoro, mozzarella e basilico",                                               "prezzo": "4,50" },
+    { "nome": "Margherita fior di latte", "desc": "Pomodoro e fior di latte",                                                   "prezzo": "5,00" },
+    { "nome": "Ortelana",              "desc": "Pomodoro, mozzarella, melanzane e zucchine fritte",                             "prezzo": "6,50" },
+    { "nome": "Prosciutto",            "desc": "Pomodoro, mozzarella e prosciutto cotto",                                       "prezzo": "5,50" },
+    { "nome": "Regina",                "desc": "Pomodoro, mozzarella, prosciutto cotto e funghi",                               "prezzo": "6,00" },
+    { "nome": "Contadina",             "desc": "Pomodoro, mozzarella, prosciutto cotto, funghi e origano",                     "prezzo": "5,50" },
+    { "nome": "Ripicca",               "desc": "Pomodoro, mozzarella e salame piccante",                                       "prezzo": "5,50" },
+    { "nome": "Peperoni",              "desc": "Pomodoro, mozzarella e peperoni arrostiti",                                    "prezzo": "6,50" },
+    { "nome": "Diavola",               "desc": "Pomodoro, mozzarella e salame piccante",                                       "prezzo": "5,50" },
+    { "nome": "Formaggio",             "desc": "Pomodoro, mozzarella e formaggio",                                             "prezzo": "6,00" },
+    { "nome": "Tenno Cipolla",         "desc": "Pomodoro, cipolla e olive nere",                                               "prezzo": "6,50" },
+    { "nome": "Quattro Stagioni",      "desc": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofi e olive nere",        "prezzo": "7,00" },
+    { "nome": "Bufala",                "desc": "Pomodoro e mozzarella di bufala",                                              "prezzo": "7,00" }
+  ],
+  "pizze_regionali": [
+    { "nome": "Campana",      "desc": "Mozzarella, salsiccia e friarielli freschi",                          "prezzo": "8,00" },
+    { "nome": "Molisana",     "desc": "Pomodoro, mozzarella, salame piccante, salsiccia e nduja",            "prezzo": "6,50" },
+    { "nome": "Romana",       "desc": "Pomodoro, mozzarella, acciughe, peperoni e origano",                  "prezzo": "7,00" },
+    { "nome": "Toscana",      "desc": "Pomodoro, mozzarella, prosciutto crudo e rucola",                     "prezzo": "7,00" },
+    { "nome": "Pugliese",     "desc": "Pomodoro, mozzarella, salsiccia e cipolla",                          "prezzo": "6,00" },
+    { "nome": "Trentina",     "desc": "Pomodoro, mozzarella e speck",                                       "prezzo": "6,50" },
+    { "nome": "Lombarda",     "desc": "Pomodoro, mozzarella, salsiccia e Gorgonzola",                       "prezzo": "6,50" },
+    { "nome": "Siciliana",    "desc": "Pomodoro, acciughe, capperi e olive nere",                           "prezzo": "6,50" },
+    { "nome": "Veneta",       "desc": "Mozzarella, ricotta e pomodori secchi",                              "prezzo": "7,00" },
+    { "nome": "Valdostana",   "desc": "Pomodoro, mozzarella, fontina e speck",                              "prezzo": "6,50" },
+    { "nome": "Marchigiana",  "desc": "Pomodoro, mozzarella e funghi",                                      "prezzo": "7,00" },
+    { "nome": "Romagnola",    "desc": "Pomodoro, mozzarella, prosciutto crudo e stracciatella",             "prezzo": "8,50" },
+    { "nome": "Livornese",    "desc": "Pomodoro, mozzarella e olive nere",                                  "prezzo": "6,00" },
+    { "nome": "Italia",       "desc": "Pomodoro, mozzarella e Grana Padano a scaglie",                      "prezzo": "8,00" }
+  ],
+  "calzoni": [
+    { "nome": "Liscio",    "desc": "Pomodoro, mozzarella e prosciutto cotto",                                          "prezzo": "5,50" },
+    { "nome": "Saporito",  "desc": "Pomodoro, mozzarella, salame piccante, prosciutto cotto e peperoncino",           "prezzo": "6,50" },
+    { "nome": "Fagotto",   "desc": "Pomodoro, mozzarella, prosciutto cotto, funghi e carciofi",                      "prezzo": "7,00" },
+    { "nome": "Piccante",  "desc": "Pomodoro, mozzarella, ricotta e salame piccante",                                "prezzo": "6,50" },
+    { "nome": "Vegano",    "desc": "Zucchine, melanzane e peperoni",                                                 "prezzo": "5,50" }
+  ],
+  "hamburger": [
+    { "nome": "Classico",   "desc": "Hamburger, cheddar, pomodoro, insalata, bacon",                                                          "prezzo": "7,00" },
+    { "nome": "Italiano",   "desc": "Hamburger, pomodoro, insalata, cipolla caramellata, grana padano, pancetta grigliata",                   "prezzo": "8,50" },
+    { "nome": "Milanese",   "desc": "Hamburger, pomodoro, insalata, gorgonzola, pancetta grigliata",                                          "prezzo": "8,50" },
+    { "nome": "Calabrese",  "desc": "Hamburger, pomodoro, insalata, provola affumicata, spianata alla griglia",                               "prezzo": "8,50" },
+    { "nome": "Pugliese",   "desc": "Hamburger, cipolla caramellata, pomodori secchi, provola affumicata, pancetta grigliata",                "prezzo": "8,50" },
+    { "nome": "Tirolese",   "desc": "Hamburger, fontina, speck alla griglia, funghi freschi trifolati",                                       "prezzo": "8,50" },
+    { "nome": "Romano",     "desc": "Hamburger, pomodoro, insalata, pancetta grigliata, uovo fritto, pecorino",                               "prezzo": "8,50" },
+    { "nome": "Americano",  "desc": "Doppio hamburger, cheddar, pomodoro, insalata, cipolla caramellata, bacon, patatine fritte",             "prezzo": "12,50" }
+  ],
+  "dolci": [
+    { "nome": "Pastiera Napoletana", "desc": "Dolce tipico della tradizione napoletana", "prezzo": "2,70" },
+    { "nome": "Torta di Mele",       "desc": "Preparata ogni giorno in casa",            "prezzo": "2,70" },
+    { "nome": "Tiramisu",            "desc": "Classico tiramisu artigianale",            "prezzo": "2,70" }
+  ],
+  "note_hamburger": [
+    "In tutti i panini e compresa una salsa a scelta",
+    "Doppio hamburger + 3,00 €",
+    "Salsa extra a scelta + 0,30 €"
+  ],
+  "info": {
+    "nome": "Pizza Italia",
+    "indirizzo": "Via Camillo Benso Cavour, 15",
+    "citta": "20021 Bollate (MI)",
+    "telefono": "02 4244 6690",
+    "sito": "piazzaitalia.it",
+    "fascia_prezzo": "10–20 €",
+    "rating": "4,4",
+    "recensioni": 213,
+    "orari": [
+      { "giorno": "Lunedi",    "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Martedi",   "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Mercoledi", "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Giovedi",   "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Venerdi",   "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Sabato",    "ore": "12:00–14:30 / 18:30–23:00" },
+      { "giorno": "Domenica",  "ore": "18:30–23:00" }
+    ]
+  }
+}
