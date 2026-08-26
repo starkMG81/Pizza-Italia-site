@@ -27,8 +27,8 @@
       padding:0 2rem; position:sticky; top:0; z-index:200;
       border-bottom:3px solid var(--gold); height:64px;
     }
-    .nav-logo { display:flex; align-items:center; gap:.7rem; }
-    .nav-logo img { height:42px; width:42px; object-fit:contain; display:block; }
+    .nav-logo { display:flex; align-items:center; gap:.7rem; min-height:64px; }
+    .nav-logo img { height:42px; width:42px; object-fit:contain; display:block; flex-shrink:0; }
     .nav-logo span { color:#fff; font-family:'Playfair Display',serif; font-size:1.3rem; letter-spacing:2px; }
 
     /* desktop links */
@@ -275,7 +275,7 @@
 <!-- ── NAV ── -->
 <nav>
   <div class="nav-logo">
-    <svg
+    <svg 
       <img src="img/img_logo.png" alt="Pizza Italia">
     </svg>
     <span>Pizza Italia</span>
